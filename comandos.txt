@@ -1,0 +1,6 @@
+git init .
+git status
+git add nome arquivo
+git status
+git commit -m "Minha mensagem"
+git log 
